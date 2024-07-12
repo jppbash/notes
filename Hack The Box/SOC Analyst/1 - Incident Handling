@@ -1,0 +1,27 @@
+### Incident Handling Definition and Scope
+Incident Handling (IH) is important for the defensive capability an organisation must have against cyber-crime. IH is necessary for any organisation incapable of affording any sort of compromise to its data CIA. Need to consider that there is in-house IH capabilities as well as the option to rely on third-party providers. However, previous to discussing and deeply studying security incident, it is paramount to define some terms and set a common understanding of them.
+
+An **event** is something that happens in a system/network. Some examples are:
+- `A user sending an email`
+- `A mouse click`
+- `A firewall allowing a connection request`
+
+An **incident** is something that happens but brings negative consequences. Some examples are system crashes, unauthorized access. In addition, effects from natural disasters or power failures fall within this category.
+
+In addition, there is not a single definition for that IT security incident is. HTB defines it as an `event with a clear intent to cause harm that is performed against a computer system`. Some examples are:
+- Data theft
+- Funds theft
+- Unauthorized access
+- Installation and use of malware and remote access tools
+
+Therefore **IH is a set of procedures to manage and respond to security incidents in a computer/network environment**
+
+Besides, IH is not limited to intrusion incidents. It is also referred to other types of incidents, caused by malicious insiders, availability issues, loss of IP, etc. Therefore, organisations must have an appropriate IH plan to address these diverse types of incidents and use suitable measures to identify, contain, eradicate and recover from them to restore normal business operations.
+
+Finally, have in consideration that it is not fully clear that an event is an incident util the team performs an initial investigation. Therefore, some suspicious event should be treated as incidents unless proven otherwise.
+
+### Incident Handling's Value and Generic Notes
+
+Security incidents involve the compromise of personal/business data and therefore, it is crucial to respond quickly and effectively. Sometimes, the incident may be limited to few devices, while in other situations, it can involve a large part of the environment. A benefit of having an IH team is that trained people will respond systematically. 
+
+The reality is that the main goal of this team is to minimize/lower the impact of any sort of incident that could compromise the main goals of the organisation. You can achieve this performing investigations and remediation steps.
